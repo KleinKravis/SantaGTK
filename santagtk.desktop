@@ -2,8 +2,8 @@
 Name=SantaGTK
 Comment=Track Santa on his journey
 GenericName=Game
-Exec=python3 ~/.local/bin/santagtk/santagtk.py
-Icon=~/.local/bin/santagtk/icon.png
+Exec=python3 ~/.santa/main.py
+Icon=~/.santa/icon.png
 Type=Application
 StartupNotify=false
 Categories=Accessories
